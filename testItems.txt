@@ -1,0 +1,7 @@
+TC01 = (
+    ['Login']
+    ['Facebook', 'url']
+    ['Username', 'textbox']
+    ['Password', 'textbox']
+    ['Login', 'button']
+)
